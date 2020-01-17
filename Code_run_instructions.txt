@@ -1,0 +1,8 @@
+
+1. Our Project Files consist of three Python files Model , dataset and main.py
+2. Inorder to execute the code You need to Run the main.py file.
+3. DataSet needed for the execution are Flicker8k and Imagenet
+4. Link for Dataset :
+	https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip
+	https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
+5. Run the code on GPU using Cuda
